@@ -2,14 +2,11 @@
 
 > Brand Voice & Identity Playbook cho **TECOTEC Quang Điện Tử** (Optronics Equipment & Solutions)
 
-## Xem trước
+## Xem trực tuyến
 
-Mở `index.html` trong trình duyệt hoặc chạy local server:
+Playbook được publish tại:
 
-```bash
-python3 -m http.server 8000
-# Truy cập http://localhost:8000
-```
+**https://mkt-tecotec.github.io/TECOTEC-OES-Brand-Playbook/**
 
 ## Cấu trúc
 
@@ -73,10 +70,10 @@ python3 -m http.server 8000
 
 ## Cập nhật nội dung
 
-1. Mở `index.html`
+1. Chỉnh sửa `index.html` trực tiếp trên repo
 2. Tìm section cần sửa theo `id` (VD: `id="brand-foundation"`)
 3. Cập nhật nội dung trong `<div class="section__body">`
-4. Commit & push
+4. Commit & push — GitHub Pages tự động deploy
 
 ## License
 
